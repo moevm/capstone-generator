@@ -1,0 +1,16 @@
+User login:
+ChivaTateo
+title:
+x64 is supported now + if/while statement
+Body:
++ Переделан компилятор под архитектуру 64
++ Добавлен оператор if и while
++ Все тесты из папок deep-expression и expression пройдены. Тесты 01-10 и 11-18 тоже успешны.
+Comments_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/issues/28/comments
+Commits_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/28/commits
+Diff_URL:
+https://github.com/kajigor/eltech_compilers/pull/28.diff
+Review_comments_url:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/28/comments

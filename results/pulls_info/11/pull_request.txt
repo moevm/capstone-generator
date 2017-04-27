@@ -1,0 +1,16 @@
+User login:
+Dron642
+title:
+HW: All expressions
+Body:
+Чуланов Андрей,
+гр.2381
+chulanov1994@mail.ru
+Comments_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/issues/15/comments
+Commits_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/15/commits
+Diff_URL:
+https://github.com/kajigor/eltech_compilers/pull/15.diff
+Review_comments_url:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/15/comments

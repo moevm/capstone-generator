@@ -1,0 +1,14 @@
+User login:
+vi4096
+title:
+fix stack
+Body:
+Добавили промежуточный регистр
+Comments_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/issues/16/comments
+Commits_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/16/commits
+Diff_URL:
+https://github.com/kajigor/eltech_compilers/pull/16.diff
+Review_comments_url:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/16/comments

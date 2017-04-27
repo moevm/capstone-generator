@@ -1,0 +1,14 @@
+User login:
+komarkom
+title:
+homework LD ST
+Body:
+
+Comments_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/issues/12/comments
+Commits_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/12/commits
+Diff_URL:
+https://github.com/kajigor/eltech_compilers/pull/12.diff
+Review_comments_url:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/12/comments

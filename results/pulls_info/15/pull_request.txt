@@ -1,0 +1,23 @@
+User login:
+SammyVimes
+title:
+Fix stack issue
+Body:
+### Changes
++ *Сломал* старый код  [большой вложенностью операций](https://github.com/SammyVimes/eltech_compilers/blob/dev/SemyonDanilov/Driver.ml#L24), и ,соответственно, пофиксил так же как операции сложения и вычитания, через промежуточный регистр.
++ Поправил корневой `.gitignore`, чтобы бинарники, сгенерённые сорцы и object-файлы не попадали в ревизию после `git add -A`
++ Добавил свой `.gitignore` на случай если в мастере будут меняться имена генерируемых файлов
++ Добавил [скрипт](https://github.com/SammyVimes/eltech_compilers/blob/dev/SemyonDanilov/installDeps.sh) для установки либ для проекта (camlp5, ocamlfind, GT, gcc-multilib) и [скрипт](https://github.com/SammyVimes/eltech_compilers/blob/dev/SemyonDanilov/test.sh) для тестирования
+
+
+
+##### p.s.
+хотел добавить сборку и тест через Travis (так же как в [master'e](https://travis-ci.org/SammyVimes/eltech_compilers/builds/213642347)), но тогда бы поменялась структура проекта (в корень добавился бы .travis.yml)
+Comments_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/issues/10/comments
+Commits_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/10/commits
+Diff_URL:
+https://github.com/kajigor/eltech_compilers/pull/10.diff
+Review_comments_url:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/10/comments

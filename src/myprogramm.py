@@ -34,7 +34,7 @@ for pull in pulls:
     filePath = newpath+"\\pull_comments.txt"
     newFile = open(filePath,'w')
     comments = pull.get_comments()
-    for comment in cooments:
+    for comment in comments:
         newFile.write("User:\n")
         newFile.write(comment.user.login+'\n')
         newFile.write("Body:\n")

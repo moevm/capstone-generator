@@ -1,0 +1,18 @@
+User login:
+SammyVimes
+title:
+Implement all binops
+Body:
+Данилов Семён, группа 2304.
+Бинопы реализованы для интерпретатор, стековой машины и x86 ассемблера.
+Проходят все необходимые тесты (001-008) и все тесты из deep-expressions
+Добавил билд и запуск тестов при пуше (Travis-CI), статус:
+[![Build Status](https://travis-ci.org/SammyVimes/eltech_compilers.svg?branch=master)](https://travis-ci.org/SammyVimes/eltech_compilers)
+Comments_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/issues/27/comments
+Commits_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/27/commits
+Diff_URL:
+https://github.com/kajigor/eltech_compilers/pull/27.diff
+Review_comments_url:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/27/comments

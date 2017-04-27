@@ -1,0 +1,14 @@
+User login:
+vi4096
+title:
+all operations
+Body:
+
+Comments_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/issues/22/comments
+Commits_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/22/commits
+Diff_URL:
+https://github.com/kajigor/eltech_compilers/pull/22.diff
+Review_comments_url:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/22/comments

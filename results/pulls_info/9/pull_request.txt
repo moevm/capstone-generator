@@ -1,0 +1,14 @@
+User login:
+LeoSko
+title:
+HW LD ST
+Body:
+
+Comments_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/issues/18/comments
+Commits_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/18/commits
+Diff_URL:
+https://github.com/kajigor/eltech_compilers/pull/18.diff
+Review_comments_url:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/18/comments

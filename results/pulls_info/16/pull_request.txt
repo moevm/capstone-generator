@@ -1,0 +1,17 @@
+User login:
+ChivaTateo
+title:
+X86 asm compiler+
+Body:
+- Добавлена инструкция comment для форматирования asm кода и создания комментов.
+- Использованы функции scanf и printf для READ и WRITE
+- Некоторые общие "улучшения"
+- Все файлы перезалиты в папку с ФИО
+Comments_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/issues/6/comments
+Commits_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/6/commits
+Diff_URL:
+https://github.com/kajigor/eltech_compilers/pull/6.diff
+Review_comments_url:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/6/comments

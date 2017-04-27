@@ -1,0 +1,15 @@
+User login:
+MagisterDemens
+title:
+Added all operations, without x86
+Body:
+Алексеевич Андрей
+2381
+Comments_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/issues/25/comments
+Commits_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/25/commits
+Diff_URL:
+https://github.com/kajigor/eltech_compilers/pull/25.diff
+Review_comments_url:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/25/comments

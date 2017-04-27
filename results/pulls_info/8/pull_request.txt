@@ -1,0 +1,16 @@
+User login:
+prototype2904
+title:
+Homework compiler
+Body:
+Стецкевич Роман
+Группа 2381
+Почта stetskevichroman@gmail.com
+Comments_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/issues/19/comments
+Commits_URL:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/19/commits
+Diff_URL:
+https://github.com/kajigor/eltech_compilers/pull/19.diff
+Review_comments_url:
+https://api.github.com/repos/kajigor/eltech_compilers/pulls/19/comments
