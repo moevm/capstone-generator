@@ -1,7 +1,7 @@
 User login:
 MaxGsomGsom
 title:
-Added all expressions; all deep tests ok
+Added expressions, if, elif, while, repeat, for
 Body:
 
 Comments_URL:

@@ -33,14 +33,14 @@ for pull in pulls:
 
     filePath = newpath+"\\pull_comments.txt"
     newFile = open(filePath,'w')
-    comments = pull.get_comments()
+    comments = pull.get_issue_comments()
     for comment in comments:
         newFile.write("User:\n")
         newFile.write(comment.user.login+'\n')
         newFile.write("Body:\n")
         newFile.write(comment.body.encode('utf-8')+'\n')
         newFile.write("---------------------------------------\n")
-        newFile.close()
+    newFile.close()
 
     filePath = newpath+"\\pull_rewies.txt"
     newFile = open(filePath,'w')
@@ -49,7 +49,7 @@ for pull in pulls:
         newFile.write("Body:\n")
         newFile.write(comment.body.encode('utf-8')+'\n')
         newFile.write("---------------------------------------\n")
-        newFile.close()
+    newFile.close()
         
     
     
