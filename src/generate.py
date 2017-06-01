@@ -6,20 +6,20 @@ def init():
     github = Github()
     return github
 
-def init_workspace(name, wiki_url):
+def init_workspace(name, repo_baseurl):
     relpath = "./ws/"+name
     os.makedirs(relpath)
     os.chdir(relpath)
-    os.popen("git clone "+wiki_url+" 2>../generator.log")
+    os.popen("git clone "+repo_baseurl+".wiki.git wiki 2>>../generator.log")
+    os.popen("git clone "+repo_baseurl+".git src 2>>../generator.log")
     os.chdir("../..")
-
 
 github = init()
 reponame = "capstone-generator"
 user = github.get_user("moevm")
 repo = user.get_repo(reponame)
 if repo.has_wiki:
-    init_workspace("capstone-generator", "https://github.com/moevm/"+reponame+".wiki.git")
+    init_workspace("capstone-generator", "https://github.com/moevm/"+reponame)
 else:
     print "Wiki not found"
 
